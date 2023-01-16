@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Wirenet S.A as Atomation Script Developer**
 
-- 🌱 I’m currently learning **React,Node.js and Express**
+- 🌱 Learning **React,Node.js and Express**
 
 - 📫 How to reach me **Christian.s.ramundo@gmail.com**
 
