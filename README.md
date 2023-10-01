@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/christian-ramundo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-ramundo" height="30" width="40" /></a>
 </p>
 
-- Portfolio: https://csr.ar
+- Portfolio: csr.ar
 - https://christiansrgit.github.io/Portfolio/
 
 <h3 align="left">Languages and Tools:</h3>
