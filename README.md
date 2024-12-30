@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Ramundo</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Wirenet S.A as Frontend Engineer**
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 Learning **React,Node.js and Express**
 
